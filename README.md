@@ -1,4 +1,4 @@
-# osu-cs290-f25-final-project
+# CS290-final-project
 
 Team Members:
 
